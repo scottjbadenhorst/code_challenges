@@ -12,6 +12,8 @@ The task is to write code to demonstrate a possible mitigation technique for rad
 
 In particular, we would like you to generate radio telescope appropriate data (basically noise like), insert an artificial source of interference, and the demonstrate recovery of the insertion by indicating a set of flags on the original dataset.
 
+This is not intended to be a detailed simulation of radio astronomy data, a simple model is perfectly adequate. You may assume a single telescope producing channelised noise like data.
+
 Demonstration
 -------------
 
